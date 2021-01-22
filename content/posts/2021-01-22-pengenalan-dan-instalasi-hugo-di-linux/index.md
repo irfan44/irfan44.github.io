@@ -4,6 +4,8 @@ date: 2021-01-22
 cover: 
     image: "images/hugo.png"
     relative: true
+tags: ["Hugo", "Linux", "Web"]
+summary: "Hugo merupakan Static Site Generator, dimana Hugo mengubah konten yang telah dibuat menjadi halaman website statis yang utuh berbentuk HTML"
 ---
 
 # Pengenalan

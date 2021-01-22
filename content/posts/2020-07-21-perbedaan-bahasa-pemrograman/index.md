@@ -4,6 +4,8 @@ date: 2020-07-21
 cover:
     image: "images/pemrograman.jpeg"
     relative: true
+tags: ["Pemrograman", "C++", "Java", "C#"]
+summary: "Membandingkan antara bahasa pemrograman C++, Java, dan C#"
 ---
 
 # C++
