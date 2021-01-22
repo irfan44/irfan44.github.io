@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com"
+baseURL: "https://irfan44.github.io"
 title: Irfan's Personal Website
 paginate: 5
 theme: PaperMod
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-enableemoji: true
+enableEmoji: true
 
 googleAnalytics: 
 
@@ -34,11 +34,11 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlightjs
-    # disableFingerprinting: true
-    # favicon: "<link / abs url>"
-    # favicon16x16: "<link / abs url>"
-    # favicon32x32: "<link / abs url>"
-    # apple_touch_icon: "<link / abs url>"
+    disableFingerprinting: true
+    # favicon: "/favicon.ico"
+    # favicon16x16: "/favicon16x16.png"
+    # favicon32x32: "./favicon32x32.png"
+    # apple_touch_icon: "./apple_touch_icon.png"
     # safari_pinned_tab: "<link / abs url>"
 
   label:
@@ -64,13 +64,13 @@ params:
 
   socialIcons:
     - name: instagram
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/irfan_nm44/"
     - name: youtube
-      url: "https://youtube.com"
+      url: "https://www.youtube.com/channel/UCCmdjHAiKQ_NRNLuCA3AwXg"
     - name: linkedin
-      url: "https://linkedin.com"
+      url: "https://linkedin.com/in/irfannm"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/irfan44"
 
   analytics:
     google:
