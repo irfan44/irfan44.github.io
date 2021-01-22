@@ -20,7 +20,7 @@ Hugo dapat diinstal melalui file .deb dengan cara :
 2. Buka terminal yang terinstal kemudian masuk pada direktori Downloads atau sesuai dimana file .deb sebelumnya disimpan
 3. Jalankan command install :
 ```
-sudo dpkg -i nama_file.deb
+sudo dpkg -i hugo_<VERSION>_Linux-64bit.deb
 ```
 
 Hugo juga tersedia pada repositori Debian dan Ubuntu, namun **tidak disarankan** untuk menggunakan cara ini :

@@ -1,0 +1,29 @@
+addons:
+  apt:
+    packages:
+      - python-pygments
+
+# Notification to email
+notification:
+  email:
+    recipients:
+      - irfannmuhajir@gmail
+    on_success: always
+    on_failure: always
+
+# Clean and don't fail
+install:
+  - rm -rf public || exit 0
+
+# Build the website
+script:
+  - ./binaries/hugo # --theme=ghoust
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: public
+  github_token: $GH_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: main
