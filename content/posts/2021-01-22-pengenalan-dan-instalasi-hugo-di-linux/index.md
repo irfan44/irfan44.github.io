@@ -1,0 +1,71 @@
+---
+title: "Pengenalan dan Instalasi Hugo di Linux"
+date: 2021-01-22
+cover: 
+    image: "images/hugo.png"
+    relative: true
+---
+
+# Pengenalan
+Hugo merupakan Static Site Generator, dimana Hugo mengubah konten yang telah dibuat menjadi halaman website statis yang utuh berbentuk HTML. Hugo dibuat menggunakan bahasa pemrograman Golang, atau dikenal juga dengan Go, yang merupakan bahasa pemrograman yang pertama kali dikembangkan oleh Google. Hugo cocok digunakan untuk membuat halaman blog, profil perusahaan, atau website lain yang menggunakan konten yang digenerasi. Menggunakan hugo, pengguna tidak lagi perlu mengelola sumber daya yang rumit untuk membuat halaman web. 
+
+Meskipun Hugo dibuat menggunakan Go, pengguna tidak perlu memahami Go terlebih dahulu untuk menggunakan Hugo karena konten yang dibuat dengan hanya menggunakan file Markdown. Markdown sangatlah mudah untuk digunakan dan tidak memiliki kompleksitas yang tinggi apabila dibandingkan dengan bahasa pemrograman. File Markdown yang telah dibuat kemudian dibuat menjadi file HTML oleh Hugo secara otomatis.
+
+# Instalasi
+Hugo dapat diinstal melalui file binary ataupun membangun dari source code secara langsung. Selain itu, untuk mempermudah instalasi, Hugo juga terdapat pada beberapa repositori distibusi linux dan sebagai Snap. Berikut adalah beberapa caranya :
+
+## Debian dan Ubuntu
+Hugo dapat diinstal melalui file .deb dengan cara :
+1. Kunjungi halaman https://github.com/gohugoio/hugo/releases dan pilih file .deb dengan versi terbaru yang sesuai.
+2. Buka terminal yang terinstal kemudian masuk pada direktori Downloads atau sesuai dimana file .deb sebelumnya disimpan
+3. Jalankan command install :
+```
+sudo dpkg -i nama_file.deb
+```
+
+Hugo juga tersedia pada repositori Debian dan Ubuntu, namun **tidak disarankan** untuk menggunakan cara ini :
+```
+sudo apt install hugo
+```
+
+## Arch Linux
+Hugo tersedia pada Arch Linux community repository yang dapat diinstall menggunakan command :
+```
+sudo pacman -Syu hugo
+```
+
+## Fedora, Red Hat, dan CentOS
+Hugo terdapat pada repositori Fedora yang dapat diinstall menggunakan command :
+```
+sudo dnf install hugo
+```
+
+## Snap Package
+Bagi pengguna yang telah memiliki Snap, maka Hugo dapat diinstal melalui Snap dengan command :
+```
+snap install hugo
+```
+Petunjuk instalasi Snap dapat diakses pada website [Snapcraft](https://snapcraft.io/docs/installing-snapd)
+
+## Homebrew
+Bagi pengguna yang memiliki Homebrew package manager, maka Hugo dapat diinstal melalui command :
+```
+brew install hugo
+```
+Petunjuk instalasi Homebrew dapat diakses pada website [Homebrew](https://docs.brew.sh/Homebrew-on-Linux).
+
+# Setelah Instalasi
+
+Setelah hugo terinstall maka berikutnya kita dapat memulai membuat website yang kita inginkan. Hugo memiliki beberapa petunjuk yang dapat diakses pada website resmi [Hugo](https://gohugo.io/getting-started/quick-start/).
+
+---
+
+## Sumber :
+- https://gohugo.io/getting-started/installing/
+- https://gohugo.io/about/what-is-hugo/
+
+
+
+
+
+
