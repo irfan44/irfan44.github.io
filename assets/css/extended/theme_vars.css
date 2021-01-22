@@ -1,0 +1,40 @@
+@import "./nord.css";
+
+:root {
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 720px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 8px;
+    --theme: var(--nord6);
+    --entry: #fefefe;
+    --primary: var(--nord0); 
+    --secondary: var(--nord1);
+    --tertiary: var(--nord4);
+    --content: var(--nord0);
+    --hljs-bg: #1c1d21; 
+    --code-bg: #fefefe;
+    --border: var(--nord6);
+}
+
+.dark {
+    --theme: var(--nord0);
+    --entry: var(--nord1);
+    --primary: var(--nord6);
+    --secondary: var(--nord5);
+    --tertiary: var(--nord1);
+    --content: var(--nord4);
+    --hljs-bg: #2e2e33;
+    --code-bg: var(--nord1);
+    --border: var(--nord0);
+}
+
+.list {
+    background: var(--theme);
+}
+
+.dark.list {
+    background: var(--theme);
+}
