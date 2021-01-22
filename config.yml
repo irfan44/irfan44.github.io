@@ -1,0 +1,104 @@
+baseURL: "https://examplesite.com"
+title: Irfan's Personal Website
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+enableemoji: true
+
+googleAnalytics: 
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: inm
+  description: "Irfan's personal website"
+  author: Irfan Nurghiffari M
+  # author: ["Me", "You"] # multiple authors
+
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecial1stPost: false
+
+  assets:
+    # disableHLJS: true # to disable highlightjs
+    # disableFingerprinting: true
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "inm"
+    iconHeight: 40
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Hi, welcome to my website!
+    subtitle: "My name is Irfan Nurghiffari Muhajir. I'm a software engineering student"
+    imageUrl: "/bio.jpg"
+    buttons:
+      - name: Blog
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: instagram
+      url: "https://instagram.com/"
+    - name: youtube
+      url: "https://youtube.com"
+    - name: linkedin
+      url: "https://linkedin.com"
+    - name: github
+      url: "https://github.com/"
+
+  analytics:
+    google:
+      SiteVerificationTag: " "
+
+  cover:
+    # hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    # hiddenInSingle: false # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+    
+menu:
+  main:
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
