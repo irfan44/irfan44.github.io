@@ -10,6 +10,8 @@ buildExpired: false
 
 enableEmoji: true
 
+disqusShortname: irfannm
+
 googleAnalytics: 
 
 minify:
@@ -27,7 +29,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  comments: false
+  comments: true
   defaultTheme: auto
   disableThemeToggle: false
   disableSpecial1stPost: false
