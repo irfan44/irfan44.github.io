@@ -1,5 +1,5 @@
 baseURL: "https://irfan44.github.io"
-title: Irfan's Personal Website
+title: Irfan Nurghiffari M
 paginate: 5
 theme: PaperMod
 
@@ -65,14 +65,18 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: instagram
-      url: "https://www.instagram.com/irfan_nm44/"
-    - name: youtube
-      url: "https://www.youtube.com/channel/UCCmdjHAiKQ_NRNLuCA3AwXg"
+    - name: email
+      url: "mailto:irfannmuhajir@gmail.com"
     - name: linkedin
       url: "https://linkedin.com/in/irfannm"
     - name: github
       url: "https://github.com/irfan44"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCCmdjHAiKQ_NRNLuCA3AwXg"
+    - name: instagram
+      url: "https://www.instagram.com/irfan_nm44/"
+    
+
 
   analytics:
     google:
