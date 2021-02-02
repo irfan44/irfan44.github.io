@@ -1,7 +1,7 @@
 baseURL: "https://irfan44.github.io"
 title: Irfan Nurghiffari M
 paginate: 5
-theme: PaperMod
+theme: PaperMod-Nord
 
 enableRobotsTXT: true
 buildDrafts: false
