@@ -33,6 +33,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   disableSpecial1stPost: false
+  license: true
 
   assets:
     # disableHLJS: true # to disable highlightjs

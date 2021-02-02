@@ -5,6 +5,7 @@ cover:
     image: "images/kebutuhan-perangkat-lunak.png"
     relative: true
 tags: ["Kebutuhan Fungsional", "Kebutuhan Non Fungsional", "Kebutuhan Perangkat Lunak"]
+license: false
 ---
 
 Kebutuhan fungsional adalah kebutuhan yang berdasarkan proses yang mampu disediakan oleh sistem dan mencangkup kebutuhan dasar pengguna tersebut berupa fitur, layanan dan fungsi. Sedangkan kebutuhan non fungsional merupakan sekumpulan batasan, karakteristik, dan properti pada sistem, baik dalam pengembangan maupun operasional.

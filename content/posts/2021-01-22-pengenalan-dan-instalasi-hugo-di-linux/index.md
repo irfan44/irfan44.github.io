@@ -66,6 +66,7 @@ Setelah hugo terinstall maka berikutnya kita dapat memulai membuat website yang 
 - https://gohugo.io/getting-started/installing/
 - https://gohugo.io/about/what-is-hugo/
 
+---
 
 
 

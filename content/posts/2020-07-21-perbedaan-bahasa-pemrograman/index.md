@@ -6,6 +6,7 @@ cover:
     relative: true
 tags: ["Pemrograman", "C++", "Java", "C#"]
 summary: "Membandingkan antara bahasa pemrograman C++, Java, dan C#"
+license: false
 ---
 
 # C++

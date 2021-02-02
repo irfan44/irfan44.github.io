@@ -5,6 +5,7 @@ cover:
     image: "images/front.jpg"
     relative: true
 tags: ["Arsitektur Perangkat Lunak"]
+license: false
 ---
 
 Perancangan perangkat lunak merupakan salah satu tahapan dari SDLC (Software Development Live Cycle) yang dilakukan setelah proses analisis. Perancangan PL (perangkat lunak) adalah sebuah proses yang menghasilkan suatu model yang dapat memenuhi kebutuhan perangkat lunak. Proses perancangan perangkat lunak itu sendiri dibagi menjadi dua bagian, yaitu desain arsitektur dan detailed design. Kali ini kita akan membahas tentang perancangan arsitektur perangkat lunak.
