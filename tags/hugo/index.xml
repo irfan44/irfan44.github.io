@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Irfan Nurghiffari M</title>
+    <link>https://irfan44.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Irfan Nurghiffari M</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://irfan44.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan dan Instalasi Hugo di Linux</title>
+      <link>https://irfan44.github.io/posts/2021-01-22-pengenalan-dan-instalasi-hugo-di-linux/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/posts/2021-01-22-pengenalan-dan-instalasi-hugo-di-linux/</guid>
+      <description>Hugo merupakan Static Site Generator, dimana Hugo mengubah konten yang telah dibuat menjadi halaman website statis yang utuh berbentuk HTML</description>
+    </item>
+    
+  </channel>
+</rss>

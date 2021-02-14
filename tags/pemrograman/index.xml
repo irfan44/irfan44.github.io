@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pemrograman on Irfan Nurghiffari M</title>
+    <link>https://irfan44.github.io/tags/pemrograman/</link>
+    <description>Recent content in Pemrograman on Irfan Nurghiffari M</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://irfan44.github.io/tags/pemrograman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perbandingan Bahasa Pemrograman C&#43;&#43;, Java, dan C#</title>
+      <link>https://irfan44.github.io/posts/2020-07-21-perbedaan-bahasa-pemrograman/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/posts/2020-07-21-perbedaan-bahasa-pemrograman/</guid>
+      <description>Membandingkan antara bahasa pemrograman C++, Java, dan C#</description>
+    </item>
+    
+  </channel>
+</rss>
