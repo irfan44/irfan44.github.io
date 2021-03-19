@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: irfan44.github.io
+Token: d8925bc42c974a34e5a52f8d89bbc0bd2c6336b54deda6307a086158db4e6fee
