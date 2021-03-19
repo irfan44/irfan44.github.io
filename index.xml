@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irfan Nurghiffari M</title>
+    <link>https://irfan44.github.io/</link>
+    <description>Recent content on Irfan Nurghiffari M</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://irfan44.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan dan Instalasi Hugo di Linux</title>
+      <link>https://irfan44.github.io/posts/2021-01-22-pengenalan-dan-instalasi-hugo-di-linux/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/posts/2021-01-22-pengenalan-dan-instalasi-hugo-di-linux/</guid>
+      <description>Hugo merupakan Static Site Generator, dimana Hugo mengubah konten yang telah dibuat menjadi halaman website statis yang utuh berbentuk HTML</description>
+    </item>
+    
+    <item>
+      <title>Kebutuhan Fungsional dan Non Fungsional</title>
+      <link>https://irfan44.github.io/posts/2020-08-11-kebutuhan-fungsional-dan-nonfungsional/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/posts/2020-08-11-kebutuhan-fungsional-dan-nonfungsional/</guid>
+      <description>Kebutuhan fungsional adalah kebutuhan yang berdasarkan proses yang mampu disediakan oleh sistem dan mencangkup kebutuhan dasar pengguna tersebut berupa fitur, layanan dan fungsi. Sedangkan kebutuhan non fungsional merupakan sekumpulan batasan, karakteristik, dan properti pada sistem, baik dalam pengembangan maupun operasional.
+Berikut ini merupakan contoh kebutuhan fungsional dan non fungsional dari beberapa aplikasi :
+A. Tokopedia Kebutuhan Fungisonal :  Pengguna dapat melihat berbagai macam bentuk layanan transaksi yang disediakan oleh aplikasi dengan praktis.</description>
+    </item>
+    
+    <item>
+      <title>Perancangan Arsitektur Perangkat Lunak</title>
+      <link>https://irfan44.github.io/posts/2020-08-08-perancangan-arsitektur-perangkat-lunak/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/posts/2020-08-08-perancangan-arsitektur-perangkat-lunak/</guid>
+      <description>Perancangan perangkat lunak merupakan salah satu tahapan dari SDLC (Software Development Live Cycle) yang dilakukan setelah proses analisis. Perancangan PL (perangkat lunak) adalah sebuah proses yang menghasilkan suatu model yang dapat memenuhi kebutuhan perangkat lunak. Proses perancangan perangkat lunak itu sendiri dibagi menjadi dua bagian, yaitu desain arsitektur dan detailed design. Kali ini kita akan membahas tentang perancangan arsitektur perangkat lunak.
+Perancangan arsitektur merupakan perancangan yang menjelaskan bagaimana perangkat lunak dalam komponen yang mendefinisikan hubungan antar komponen, arsitektur, dan pilar desain yang membantu mencapai persyaratan yang ditetapkan.</description>
+    </item>
+    
+    <item>
+      <title>Perbandingan Bahasa Pemrograman C&#43;&#43;, Java, dan C#</title>
+      <link>https://irfan44.github.io/posts/2020-07-21-perbedaan-bahasa-pemrograman/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/posts/2020-07-21-perbedaan-bahasa-pemrograman/</guid>
+      <description>Membandingkan antara bahasa pemrograman C++, Java, dan C#</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://irfan44.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/about/</guid>
+      <description>Hello, my name is Irfan Nurghiffari Muhajir. Currently i&amp;rsquo;m a student at Universitas Pendidikan Indonesia and studying Software Engineering. I make this website using Hugo, a static site generator, and PaperMod Theme with Nord colorscheme. This website is hosted in Github using Github Pages and Travis CI. You can see the source code here.
+Links :  Hugo PaperMod Theme Nord Travis CI  </description>
+    </item>
+    
+  </channel>
+</rss>

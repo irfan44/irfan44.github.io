@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arsitektur Perangkat Lunak on Irfan Nurghiffari M</title>
+    <link>https://irfan44.github.io/tags/arsitektur-perangkat-lunak/</link>
+    <description>Recent content in Arsitektur Perangkat Lunak on Irfan Nurghiffari M</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://irfan44.github.io/tags/arsitektur-perangkat-lunak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perancangan Arsitektur Perangkat Lunak</title>
+      <link>https://irfan44.github.io/posts/2020-08-08-perancangan-arsitektur-perangkat-lunak/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://irfan44.github.io/posts/2020-08-08-perancangan-arsitektur-perangkat-lunak/</guid>
+      <description>Perancangan perangkat lunak merupakan salah satu tahapan dari SDLC (Software Development Live Cycle) yang dilakukan setelah proses analisis. Perancangan PL (perangkat lunak) adalah sebuah proses yang menghasilkan suatu model yang dapat memenuhi kebutuhan perangkat lunak. Proses perancangan perangkat lunak itu sendiri dibagi menjadi dua bagian, yaitu desain arsitektur dan detailed design. Kali ini kita akan membahas tentang perancangan arsitektur perangkat lunak.
+Perancangan arsitektur merupakan perancangan yang menjelaskan bagaimana perangkat lunak dalam komponen yang mendefinisikan hubungan antar komponen, arsitektur, dan pilar desain yang membantu mencapai persyaratan yang ditetapkan.</description>
+    </item>
+    
+  </channel>
+</rss>
