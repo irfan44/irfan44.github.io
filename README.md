@@ -1,4 +1,6 @@
-# irfan44.github.io
+# Deprecated
+
+## irfan44.github.io
 
 <div align=center>
 
